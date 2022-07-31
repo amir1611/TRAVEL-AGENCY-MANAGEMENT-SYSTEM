@@ -1,0 +1,14 @@
+USA to UK
+1000
+Australia to Sweden
+2000
+Singapore to USA
+3000
+Malaysia to Thailand
+1000
+Turkey to Vietnam
+20000
+Malaysia to Japan
+20000
+Malaysia to India
+3000
