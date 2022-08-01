@@ -6,7 +6,7 @@ This system was built solely by using C Language.
 
 Built by using Visual Studio Code.
 
-Feel Free to Fork Or Clone this repository by adhering to MIT License. 
 ## License
+Feel Free to Fork Or Clone this repository by adhering to MIT License. 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
